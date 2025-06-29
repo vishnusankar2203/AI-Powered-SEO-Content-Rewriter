@@ -6,7 +6,7 @@
 
 **Transform your web pages into search engine magnets with AI-powered SEO analysis and optimization.**
 
-[Live Demo](#) • [Features](#features) • [Installation](#installation) • [Usage](#usage)
+ • [Features](#features) • [Installation](#installation) • [Usage](#usage)
 
 </div>
 
@@ -37,12 +37,16 @@
 
 ## 📸 Screenshots
 
-> *(Add your real screenshots here)*
 
 <div align="center">
+Home page 
 
-![Dashboard](https://via.placeholder.com/800x400?text=SEO+Dashboard)
-![Results](https://via.placeholder.com/800x400?text=Analysis+Results)
+![image](https://github.com/user-attachments/assets/6aac0c02-8eac-4290-b15a-f6acf098b566)
+
+Result page
+
+![image](https://github.com/user-attachments/assets/fbfbecd8-c14c-4f90-bcd7-9725da657235)
+
 
 </div>
 
