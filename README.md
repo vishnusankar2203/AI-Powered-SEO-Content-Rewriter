@@ -1,3 +1,4 @@
+
 # 🚀 AI-Powered SEO Content Rewriter
 
 <div align="center">
@@ -6,7 +7,9 @@
 
 **Transform your web pages into search engine magnets with AI-powered SEO analysis and optimization.**
 
- • [Features](#features) • [Installation](#installation) • [Usage](#usage)
+🔗 **Live Demo**: [https://ai-powered-seo-content-rewriter-rns.vercel.app](https://ai-powered-seo-content-rewriter-rns.vercel.app)
+
+• [Features](#features) • [Installation](#installation) • [Usage](#usage)
 
 </div>
 
@@ -37,16 +40,13 @@
 
 ## 📸 Screenshots
 
-
 <div align="center">
-Home page 
 
-![image](https://github.com/user-attachments/assets/6aac0c02-8eac-4290-b15a-f6acf098b566)
+### Home page  
+![Home Screenshot](https://github.com/user-attachments/assets/6aac0c02-8eac-4290-b15a-f6acf098b566)
 
-Result page
-
-![image](https://github.com/user-attachments/assets/fbfbecd8-c14c-4f90-bcd7-9725da657235)
-
+### Result page  
+![Result Screenshot](https://github.com/user-attachments/assets/fbfbecd8-c14c-4f90-bcd7-9725da657235)
 
 </div>
 
@@ -76,3 +76,18 @@ git clone https://github.com/vishnusankar2203/AI-Powered-SEO-Content-Rewriter.gi
 cd AI-Powered-SEO-Content-Rewriter
 npm install
 npm run dev
+```
+
+🔗 Try it live: [https://ai-powered-seo-content-rewriter-rns.vercel.app](https://ai-powered-seo-content-rewriter-rns.vercel.app)
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+<div align="center">
+  <p>Made with ❤️ by <a href="https://github.com/vishnusankar2203">Vishnu Sankar</a></p>
+  <p>🌐 <strong>Live Project:</strong> <a href="https://ai-powered-seo-content-rewriter-rns.vercel.app" target="_blank">https://ai-powered-seo-content-rewriter-rns.vercel.app</a></p>
+  <p>⭐ Star this repository if you found it helpful!</p>
+</div>
